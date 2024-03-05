@@ -1,0 +1,27 @@
+Node list                    : node060
+Number of nodes allocated    : 1 or 1
+Number of threads or processes          : 
+Number of processes per node : 1
+Requested tasks per node     : 
+Requested CPUs per task      : 1
+Scheduling priority          : 0
+compiling main-openmp-only.c to gomp-only
+
+------------------------------------
+using 1 OpenMP threads
+
+
+Multiple execution..
+
+
+
+DistMat took 0.683080 milliseconds
+
+Cheapest took -0.187375 milliseconds
+
+Farthest took -0.319712 milliseconds
+
+Nearest took 0.175994 milliseconds
+Writing output data
+Writing output data
+Writing output data

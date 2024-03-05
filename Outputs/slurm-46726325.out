@@ -1,0 +1,21 @@
+Node list                    : node060
+Number of nodes allocated    : 1 or 1
+Number of threads or processes          : 2
+Number of processes per node : 2
+Requested tasks per node     : 
+Requested CPUs per task      : 1
+Scheduling priority          : 0
+compiling main-mpi.c to gcomplete
+
+------------------------------------
+using 2 processes
+using 1 OpenMP threads
+
+Multiple execution..
+
+
+Writing output data
+Writing output data
+Writing output data
+
+Program took 11.730693 milliseconds
